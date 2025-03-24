@@ -1,7 +1,7 @@
 = type-tree-sitter-bindings
 Project Status: Pre-release
 
-A tool for generating typed syntax node definitions & utilities for  `+node-tree-sitter+`
+A tool for generating typed syntax node definitions & utilities for use with `+node-tree-sitter+`
 
 == Note
 This project is still in the early stages and needs some meta work done before use is recommended:
@@ -10,5 +10,5 @@ This project is still in the early stages and needs some meta work done before u
 * contribution instructions
 * commit hooks
 * publishing to npm
-* colorful github banners
+* colorful github badges
 * a dev-container setup

@@ -1,18 +1,17 @@
 {
   "name": "generate-typed-tree-sitter-node-bindings",
   "version": "0.0.1",
-  "description": "",
+  "description": "A tool for generating typed syntax node definitions & utilities for use with node-tree-sitter",
   "author": {
     "name": "buckynbrocko",
     "email": "77247638+buckynbrocko@users.noreply.github.com"
   },
   "license": "Unlicense",
-  "main": "index.js",
+  "main": "cli.js",
   "bin": {
     "generate-typed-ts-node-bindings": "./cli.js"
   },
   "scripts": {
-    "index": "node out/index.js",
     "watch": "npx tsc --watch"
   },
   "dependencies": {
