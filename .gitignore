@@ -1,0 +1,12 @@
+.vscode
+out
+node_modules
+
+.DS_Store
+*/**/.DS_Store
+
+src/*.ignore.ts
+
+generated-bindings
+tests/test-generated-bindings/*
+!tests/test-generated-bindings/.gitkeep
